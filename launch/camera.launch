@@ -5,7 +5,7 @@
     <param name="width" value="640"/>
     <param name="height" value="480"/>
     <!-- We are running at 90fps to reduce motion blur -->
-    <param name="framerate" value="10"/>
+    <param name="framerate" value="30"/>
 
     <param name="camera_frame_id" value="raspicam"/>
 
